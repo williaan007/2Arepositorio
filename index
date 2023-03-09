@@ -1,1 +1,18 @@
 <html>
+<head>
+	<meta charset="UTF-8">
+	<title>Mapa da Sala</title>
+</head>
+<body>
+	<header>
+		<h1>Mapa da Sala</h1>
+		<nav>
+			<ul>
+				<li><a href='#'>Home</a></li>
+				<li><a href="#">Alunos</a></li>
+				<li><a href="#">Professores</a></li>
+				<li><a href="#">Colégio</a></li>
+			</ul>
+		</nav>
+	</header>
+</body>
